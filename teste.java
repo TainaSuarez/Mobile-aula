@@ -5,4 +5,7 @@ public class teste{
         System.out.println("123123!");
 
     }
+    public void teste(){
+        //adsads
+    }
 }
